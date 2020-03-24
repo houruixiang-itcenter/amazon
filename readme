@@ -1,0 +1,7 @@
+情感分析
+--
+数据集来自amazon: https://pan.baidu.com/s/1SbfpZb5cm-g2LmnYV_af8Q#list/path=%2F
+
+ratings.csv 作为情感分析的预料
+使用bilstm进行情感分析实验
+
